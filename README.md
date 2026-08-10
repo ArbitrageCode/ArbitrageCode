@@ -1,14 +1,13 @@
 # Rutuj Sawakhande
 
-I build sites that answer one expensive complex question each.
+I build sites that answer one complex question each.
 
 Three domains are live. Twenty-eight pages across them, every one written to rank for a query someone types when they need a number and can't get it anywhere else.
 
 Build 1 was a single page: one URL, one calculation, ship it. Build 2 restructured into hub and spoke, so a roof cost hub feeds four related calculators and five explainer posts off the same domain authority. Build 3 kept that shape and automated the skeleton first: templates, routing, and config generated before I touched a word of content. That cut build time 60-65%.
 
 Astro, Tailwind, TypeScript, Cloudflare Pages. Same stack every time, because the interesting problem is never the stack.
-
-Digital payments pays the bills. I don't write about that here. On my own time I ship these sites and build agents that take the repetitive parts of my work and do them without me.
+On my own time I ship these sites and build agents that take the repetitive parts of my work and do them without me.
 
 ## Sites
 
