@@ -1,6 +1,6 @@
 # Rutuj Sawakhande
 
-I build calculator sites that answer one expensive question each.
+I build sites that answer one expensive complex question each.
 
 Three domains are live. Twenty-eight pages across them, every one written to rank for a query someone types when they need a number and can't get it anywhere else.
 
